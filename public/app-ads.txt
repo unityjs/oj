@@ -11,11 +11,6 @@ google.com, pub-5041220612766865, DIRECT, f08c47fec0942fa0
 google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
 google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 0ed95638efedb03e961023b332471a026f022d6a
 #facebook
 facebook.com, 1013086622679712, RESELLER, c3e20eee3f780d68
 

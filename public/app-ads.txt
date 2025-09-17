@@ -1,5 +1,6 @@
 app.ads.txt,20220706
 #admob
+google.com, pub-7889808665030485, DIRECT, f08c47fec0942fa0
 google.com, pub-8866654859419315, DIRECT, f08c47fec0942fa0
 google.com, pub-1247616305170237, DIRECT, f08c47fec0942fa0
 google.com, pub-8266139206836193, DIRECT, f08c47fec0942fa0
@@ -10,6 +11,7 @@ google.com, pub-7408946603946559, DIRECT, f08c47fec0942fa0
 google.com, pub-5041220612766865, DIRECT, f08c47fec0942fa0
 google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
 google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
+
 
 #facebook
 facebook.com, 1013086622679712, RESELLER, c3e20eee3f780d68
